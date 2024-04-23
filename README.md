@@ -1,7 +1,7 @@
 - 👋 Hi, @Diane8-8 here,
 - 👀 I’m interested in Coding, learning foreign languages, Soduko etc.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me @dorododo on Telegram ;)
+- 📫 Reach me @dorododo on Telegram ;)
 - 😄 Pronouns: she/they
 
 <!---
